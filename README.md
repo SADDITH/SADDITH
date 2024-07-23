@@ -21,5 +21,11 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Read books
 - Dancing
 
+## Languages
+- English
+- Spanish
+- French
+- Germany
+
 
 
